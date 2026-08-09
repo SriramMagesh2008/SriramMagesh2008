@@ -36,11 +36,11 @@ I'm a B Tech Computer Science student at NIT Bhopal. I'm passionate about Softwa
 ---
 
 ## 📌 Featured Projects
-🌐 Project 1 - App Gate Application
-🌐 Project 2 - Timatic Clone Website
-🌐 Project 3 - DXB Pulse - Guide 
-🌐 Project 4 - AI - Movie Maker
-🌐 Project 5 - Uni Vibe Website
+- 🌐 Project 1 - App Gate Application
+- 🌐 Project 2 - Timatic Clone Website
+- 🌐 Project 3 - DXB Pulse - Guide 
+- 🌐 Project 4 - AI - Movie Maker
+- 🌐 Project 5 - Uni Vibe Website
 
 ---
 
