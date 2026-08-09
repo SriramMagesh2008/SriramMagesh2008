@@ -1,9 +1,9 @@
 ## Hi 👋, I'm Sriram Magesh
 
 ## 👨‍💻 About Me
-I'm passionate about Software Development, for building useful Software, Applications & continously improving my programming and coding skills. 
+I'm a B Tech Computer Science student at NIT Bhopal. I'm passionate about Software Development, for building useful Software, Applications & continously improving my programming and coding skills. 
 
-- 🌱 Currently learning Software Development.
+- 🌱 Currently learning Software Development & pursuing Computer Science (UG).
 - 💡 Interested in App & Game Development, Website Development & Artificial Intelligence and Open Source.
 - 🚀 Building few projects to improve my programming & coding skills.
 - 📫 Reach: srirammagesh11april2008@gmail.com
@@ -30,7 +30,7 @@ I'm passionate about Software Development, for building useful Software, Applica
 
 ### Tools
 - Visual Studio Code (IDE)
-- Git & Github
+- Git & Github (VCS)
 - Operating System (OS)
 
 ---
@@ -45,10 +45,10 @@ I'm passionate about Software Development, for building useful Software, Applica
 ---
 
 ## 🎯 Current Goals
-- Contribute to Open Source Projects.
+- Contribute to Open Source Projects & solve Real World Problems.
 - Build impactful full-stack applications and projects.
-- Strengthen Data Structures & Algorithms, System Design & Networking.
-- Prepare for Software Development Engineer (SDE) & Software related roles.
+- Strengthen Data Structures & Algorithms, System Design, OOPS & Networking.
+- Prepare for Software Development Engineer (SDE) & Software related roles and become Industry Ready - Software Engineer.
 
 ---
 
